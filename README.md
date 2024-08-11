@@ -16,3 +16,24 @@ Note:
         2. `gradle wrapper`
         3.  `cd ..`
     3. Then, run `npx react-native run-android`
+
+
+
+
+## COMANDO PARA EJECUTAR, ES PRIMERO PONER EXTENSION FIGMA VS CODE
+
+## DESPUES 
+
+git clone https://github.com/jesus73514145/React-native-prueba-figma
+
+## COMANDO PARA INSTALAR EXPO
+
+npm install expo
+
+## COMANDO PARA INSTALAR EXPO
+
+npx expo install react-native-web@~0.19.10 react-dom@18.2.0 @expo/metro-runtime@~3.2.1
+
+## COMANDO PARA EJECUTAR el proyecto de figma a codigo en visual studio code
+
+npx expo start
